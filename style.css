@@ -242,7 +242,7 @@ main {
   color: transparent;
 }
 
-/* 🔥 LIGHT MODE OVERRIDE */
+/* LIGHT MODE */
 body.light .hero-title {
   background: linear-gradient(90deg, #1e40af, #6d28d9);
   -webkit-background-clip: text;
@@ -337,7 +337,7 @@ body.light .stat span {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;   /* 🔥 THIS FIXES ALIGNMENT */
+  align-items: center; 
   min-height: 120px;
 }
 
