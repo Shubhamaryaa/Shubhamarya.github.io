@@ -43,8 +43,6 @@ function typeLoop() {
 
 typeLoop();
 
-// Loader removed if you do not use one
-// If you add a loader later, you can control it here.
 
 // Theme toggle
 const themeToggle = document.getElementById("themeToggle");
